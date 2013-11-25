@@ -7,10 +7,11 @@ TODO
 ====
 Everything:
 
-[] List
-[] Maps
-[] Sets
-[] Functions (are functions data-structure ?)
+- [ ] List
+- [ ] Maps
+- [ ] Sets
+- [ ] Functions (are functions data-structure ?)
+- [ ] Something I have miss for sure
 
 Need to think how manage all, it is just a ery early stage idea.
 
