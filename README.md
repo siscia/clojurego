@@ -5,7 +5,7 @@ Attempt to write basic clojure data structures in go-lang.
 
 TODO
 ====
-Everything from (here)[http://clojure.org/data_structures]:
+Everything from [the clojure page](http://clojure.org/data_structures):
 
 - [ ] nil
 - [ ] Numbers
@@ -13,13 +13,13 @@ Everything from (here)[http://clojure.org/data_structures]:
 - [ ] Characters
 - [ ] Keywords
 - [ ] Symbols
-- [ ] Collections:
--- [ ] List
--- [ ] Vector
--- [ ] Maps
--- [ ] StructMaps
--- [ ] ArrayMaps
--- [ ] Sets
+- [ ] Collections
+    - [ ] List
+    - [ ] Vector
+    - [ ] Maps
+    - [ ] StructMaps
+    - [ ] ArrayMaps
+    - [ ] Sets
 
 Need to think how manage all, it is just a very early stage idea.
 
