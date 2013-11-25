@@ -1,15 +1,16 @@
 clojurego
 =========
 
-Attempt to write basic clojure datastructure in go-lang.
+Attempt to write basic clojure data structures in go-lang.
 
 TODO
 ====
-Basically all.
+Everything:
 
 [] List
 [] Maps
 [] Sets
+[] Functions (are functions data-structure ?)
 
 Need to think how manage all, it is just a ery early stage idea.
 
